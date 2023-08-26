@@ -6,9 +6,9 @@
 
 ## TITLE
 
-                         SOCKS Protocol Version 5
+    SOCKS Protocol Version 5
                   
-                  								RFC1928
+    RFC1928
 
     Status of this Memo
   
